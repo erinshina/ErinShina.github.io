@@ -15,8 +15,8 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Data: It's What's for Dinner - Excel Project](https://www.linkedin.com/pulse/data-its-whats-dinner-erin-shina/?trk=public_profile-settings_article_view)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+[<img src="images/DoorDash + Data = Delicious.png?raw=true"/>](https://www.linkedin.com/pulse/data-its-whats-dinner-erin-shina/?trk=public_profile-settings_article_view)
+Check out my write up for a project I did in Excel, analyzing marketing data for a company similar to DoorDash. 
 
 
 ---
