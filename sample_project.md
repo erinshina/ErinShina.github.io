@@ -1,5 +1,7 @@
 ## Massachusetts Education Analysis
 
+!(Screen Shot 2023-01-27 at 9.25.15 PM.png)
+
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
 
 My 10-year high school reunion was in 2022. It's unbelievable to me that it's been so long, and I've been reflecting on my public school experience. I was very lucky to attend good schools throughout my life, and had a lot of priviledge in my educational experience. In a school district as large as JCPS in Louisville, KY, it can be difficult to understand differences in data across schools and understand what it means. 
