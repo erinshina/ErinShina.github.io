@@ -68,7 +68,7 @@ I compiled all of these visualizations into a dashboard using Tableau, adding in
 <img src="/images/Full Dashboard.jpg?raw=true"/>
 
 # Insights: What's Next?
-- Schools with high population percentages of high-need students tend to have the lowest graduation rates. **Further investigation into support needs** and action plans for imlpementing that support **could raise graduation rates for these schools. **
+- Schools with high population percentages of high-need students tend to have the lowest graduation rates. **Further investigation into support needs** and action plans for imlpementing that support **could raise graduation rates for these schools.**
 - Though class size does not necessarily predict college attendance rates, schools where **economic need is prevelant** in the student population **tend to have fewer students that attend college.** There are several schools that stand out from these trends, and a deeper look at their success could help other schools increase their college attendance rates.
 - Massachusetts has done a good job preparing their students for their statewide math assessments, with **about 75% of students recieving passing scores.** The state should recruit teachers from Hingham and Winchester to train teachers in other districts. 
 
