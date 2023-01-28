@@ -1,6 +1,6 @@
 ## Massachusetts Education Analysis
 
-![School Daze](erinshina.github.io/images/MA Ed Cover.jpg)
+<img src="/images/MA Ed Cover.jpg?raw=true"/>
 
 > “Education is the key to unlocking the world, a passport to freedom.” ― Oprah Winfrey
 
