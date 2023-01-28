@@ -1,4 +1,4 @@
-## Massachusetts Education Analysis
+# Massachusetts Education Analysis
 
 <img src="/images/MA Ed Cover.jpg?raw=true"/>
 
@@ -11,7 +11,7 @@ In this project, I used Tableau to analyze and visualize data from another schoo
 - How does class size affect college admission? 
 - What are the top math schools in the state?
 
-### The Data
+## The Data
 This data comes from the **Massachusetts Department of Education** reports from 2017. You can find it [**here.**](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data?select=MA_Public_Schools_datadict.csv) There are 1,861 rows in the dataset, and relevant columns include:
 - class size
 - graduation rates
@@ -19,23 +19,31 @@ This data comes from the **Massachusetts Department of Education** reports from 
 - economic disadvantage
 - math test scores for multiple grades
 
-## Key Insights
+### Key Insights
 1. The lowest-performing high schools have graduation rates **less than 20%**, though the state average is **83%.**
-2. Class size and college attendance do not appear to be correlated. There is a negative correlation between **economic disadvantage and college attendance.**
-3. 
+2. Class size and college attendance **do not** appear to be correlated. There is a negative correlation between **economic disadvantage and college attendance.**
+3. Massachusetts appears to be preparing students for their state math exams well, with **about 75% of 4th graders receiving Proficient or Advanced scores.**
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
+# Let's Zoom In
 
-### 1. You can have sections and text.
+## Low-performing Schools
+The Secretary of Education in this scenario is interested in which school struggle the most, as indicated by graduation rates. Let's take a look at what the data says. 
 
-Just like this. And you can even add internal coding blocks
+<img src="/images/Graduation Rate.jpg?raw=true"/>
 
-```python
-print('this is the python code I used to solve this problem')
-```
+Here we can see the ten schools with the lowest graduation rates, all with under 20% of students graduating. One school, Curtis-Tufts High School, was excluded from this chart - it is an alternative school that provides additional support for students with special needs. Students who attend Curtis-Tufts and are ready to graduate are transitioned to another school during the process, making the graduation rate 0% by design. 
 
-### 2. You can add any images you'd like. 
+Looking further into the schools on this list, we can see that many of them are alternative schools serving various student populations, likely considered "High Need" students. In this data, students fall into the High Need category if they are economically disadvantaged, English language learners, or are disabled requiring an Individualized Education Plan. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/Low Grad vs High Need.jpg?raw=true"/>
 
+The schools with the **lowest graduation rates** have **70%-100% high needs students.** This warrants additional investigation into the supports provided for students in these schools. 
 
+## Class Size and College Attendance
+A factor often considered when looking at higher education after high school graduation is class size. According to this MA data, there **does not** appear to be a correlation between the number of students in the classroom and the percentage of students attending college from those schools. 
+
+<img src="/images/College Class Size.jpg?raw=true"/>
+
+However, we can see a **negative** correlation between economic disadvange and college attendance - **schools with a higher percentage of economically disadvantaged schools see a lower percentage of their students attending college.**
+
+There are several outliers in the data where 
