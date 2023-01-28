@@ -1,4 +1,4 @@
-# Welcome to my portfolio!
+<img src="images/erinshina.github.io.png?raw=true"/>
 
 ---
 
