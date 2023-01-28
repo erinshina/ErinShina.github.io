@@ -46,4 +46,33 @@ A factor often considered when looking at higher education after high school gra
 
 However, we can see a **negative** correlation between economic disadvange and college attendance - **schools with a higher percentage of economically disadvantaged schools see a lower percentage of their students attending college.**
 
-There are several outliers in the data where 
+Despite the overall trend, there are several schools with a high percentage of students with economic need who also have a high college attendance rate. See the table below: 
+
+| School | % Economically Disadvantaged | % Attending College |
+| ----------- | ----------- | ----------- |
+| City on a Hill Public Charter School | 56.3% | 91.1% | 
+| New Mission High School | 53.1% | 89.5% |
+| MATCH Charter Public School | 56.4% | 90.7% |
+
+Because these schools have "beat the odds" and stand out from the rest of the data, further investigation of their methods and practices may lead to helpful insights for other schools. 
+
+## 4th Grade Math Scores
+The Secretary of Education also believes that 4th grade math scores are a key indicator of students' future success. The Massachusetts Comprehensive Assessment System has four achievement levels to categorize student test results: Advanced (A), Proficient (P), Needs Improvement (I), and Warning (W) for grades 3-8. A and P are considered passing scores, above a 50%. 
+
+<img src="/images/4th Grade Math P+A.jpg?raw=true"/>
+
+Looking at this chart, and with a little bit of quick math, we can see that about 75% of the schools in MA are preparing their students well for their standardized math assessments. Hingham School District tops the list with 91% of their 4th grade students scoring an A or P in math, closely followed by Winchester with 90.2%. Perhaps math teachers from these districts could  hold training sessions for teachers in poorly performing districts. 
+
+I compiled all of these visualizations into a dashboard using Tableau, adding in a few additional Key Performance Indicators. Click [**here.**](https://public.tableau.com/app/profile/erin1734/viz/MassachusettsEducationOverview_16748720231290/MassachusettsEducationOverview?publish=yes) to interact with the data on Tableau Public! 
+
+<img src="/images/Full Dashboard.jpg?raw=true"/>
+
+# Insights: What's Next?
+- Schools with high population percentages of high-need students tend to have the lowest graduation rates. **Further investigation into support needs** and action plans for imlpementing that support **could raise graduation rates for these schools. **
+- Though class size does not necessarily predict college attendance rates, schools where **economic need is prevelant** in the student population **tend to have fewer students that attend college.** There are several schools that stand out from these trends, and a deeper look at their success could help other schools increase their college attendance rates.
+- Massachusetts has done a good job preparing their students for their statewide math assessments, with **about 75% of students recieving passing scores.** The state should recruit teachers from Hingham and Winchester to train teachers in other districts. 
+
+## School's Out
+Thank you so much for reading my project. Working with Tableau has been inspiring, and I'm so glad to share what I'm learning with you. I would love any feedback you want to provide. You can reach me at erin.shina@gmail.com, and can connect with me on [LinkedIn](linkedin.com/in/erinshina). 
+
+I am currently looking for employment opportunities as a data analyst. I would love to chat if you have anything in your network!
